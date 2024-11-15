@@ -5,8 +5,6 @@ Hey there! I’m **Bemnet Mussa**, a **Software Engineer** with a passion for so
 ## What I’m Up To 👨‍💻
 - 🚧 Currently working on strengthening my **AI/ML** skills and building real-world applications.
 - 📚 Learning the latest in **Deep Learning** and exploring tools to make smarter software.
-- 🔄 Always on the lookout for **collaborations**—let’s create something impactful together!
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/bemnet-mussa-a144271b6/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/BemnetMussa) 
