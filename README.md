@@ -1,15 +1,17 @@
-# Bemnet Mussa | Software Engineer 👨‍💻  
+# 𝗕𝗲𝗺𝗻𝗲𝘁 𝗠𝘂𝘀𝘀𝗮 | Software Engineer 👨‍💻
 
-I’m **Bemnet Mussa**, a **Software Engineer** passionate about building impactful technology.  
-Obsessed with turning **ideas into scalable systems**, I specialize in **AI/ML**, **full-stack development**, and crafting software that solves real problems.  
-For me, engineering is more than code — it’s about **creating value, learning constantly, and shipping with purpose**.  
+I’m Bemnet Mussa, a Software Engineer, Backend Developer, and aspiring Data Scientist passionate about transforming complex ideas into scalable, efficient, and impactful systems.  
+With expertise in backend and full-stack development and a growing focus on AI/ML and data science, I build technology that doesn’t just work — it creates measurable value at scale.
+
+Engineering goes beyond code — it’s about critical thinking, designing for efficiency, and solving problems with purpose. I’m deeply interested in optimizing systems, embedding intelligence into products, and delivering technology that makes a lasting difference.
 
 ---
 
 ## Current Focus
-- Advancing skills in **Artificial Intelligence & Machine Learning**  
-- Designing scalable applications with **Go, Python, and cloud-native tools**  
-- Exploring the intersection of **data, systems, and human impact**  
+- Advancing expertise in **Artificial Intelligence & Machine Learning**  
+- Building scalable applications with **Go, Python, and cloud-native tools**  
+- Strengthening backend systems and exploring **data-driven architectures**  
+- Connecting **data, systems, and human impact** through intelligent engineering  
 
 ---
 
@@ -20,30 +22,22 @@ For me, engineering is more than code — it’s about **creating value, learnin
 
 ---
 
-## 📊 GitHub Highlights  
+### 📊 GitHub Highlights  
 
 ### ⚡ Profile Metrics  
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bemnetmussa&theme=tokyonight" alt="Profile Details" />  
 </p>
 
-### 🏆 Achievements  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bemnetmussa&theme=onedark&row=1&column=6" alt="Trophies" />
-</p>
-
 ### 📊 GitHub Overview  
-
 <p align="center">
   <!-- Activity -->
   <img src="https://streak-stats.demolab.com?user=bemnetmussa&theme=tokyonight&hide_border=true&card_width=450" alt="GitHub Streak"/>
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bemnetmussa&langs_count=3&theme=tokyonight&hide_border=true&layout=compact&hide=html,css" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bemnetmussa&langs_count=3&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages"/>
-</p>
 
 ---
 
-✨ *“Engineering is the art of building what matters.”*  
+✨ *Building technology that makes a lasting impact.*
