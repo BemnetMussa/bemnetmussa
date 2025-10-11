@@ -3,8 +3,6 @@
 I’m Bemnet Mussa, a Software Engineer, Backend Developer, and aspiring Data Scientist passionate about transforming complex ideas into scalable, efficient, and impactful systems.  
 With expertise in backend and full-stack development and a growing focus on AI/ML and data science, I build technology that doesn’t just work — it creates measurable value at scale.
 
-Engineering goes beyond code — it’s about critical thinking, designing for efficiency, and solving problems with purpose. I’m deeply interested in optimizing systems, embedding intelligence into products, and delivering technology that makes a lasting difference.
-
 ---
 
 ## Current Focus
