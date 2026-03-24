@@ -1,15 +1,19 @@
-# 𝗕𝗲𝗺𝗻𝗲𝘁 𝗠𝘂𝘀𝘀𝗮 | Software Engineer 👨‍💻
+# 𝗕𝗲𝗺𝗻𝗲𝘁 𝗠𝘂𝘀𝘀𝗮 | Software Engineer 
 
-I’m Bemnet Mussa, a Software Engineer, Backend Developer, and aspiring Data Scientist passionate about transforming complex ideas into scalable, efficient, and impactful systems.  
-With expertise in backend and full-stack development and a growing focus on AI/ML and data science, I build technology that doesn’t just work — it creates measurable value at scale.
+I build **efficient, data-aware systems** with a focus on correctness, performance, and real-world constraints.
+
+My work spans backend engineering in Go and Python, combined with a growing focus on **machine learning and signal-driven applications**—from BLE physiological data parsing to applied AI systems.
+
+I care about how systems behave under load, how data flows through them, and how to turn raw signals into reliable, actionable outcomes.
 
 ---
 
-## Current Focus
-- Advancing expertise in **Artificial Intelligence & Machine Learning**  
-- Building scalable applications with **Go, Python, and cloud-native tools**  
-- Strengthening backend systems and exploring **data-driven architectures**  
-- Connecting **data, systems, and human impact** through intelligent engineering  
+## ⚡ Current Focus
+- Low-latency backend systems and performance-conscious design (Go, Python)
+- Data pipelines and ML integration in production workflows
+- Signal processing and inference-oriented architectures
+- Building tools that connect real-world data to intelligent systems
+
 
 ---
 
