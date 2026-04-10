@@ -43,3 +43,5 @@ I care about how systems behave under load, how data flows through them, and how
 ---
 
 ✨ *Building technology that makes a lasting impact.*
+
+.
